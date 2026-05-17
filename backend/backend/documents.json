@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "C P A B",
+    "description": "Assessment solution for account management and client-facing roles."
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "A K P",
+    "description": "Assessment for administrative and office support professionals."
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "A B P S",
+    "description": "Assessment solution for agency management and leadership roles."
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "A B P",
+    "description": "Assessment for branch management and operational leadership."
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "B A P",
+    "description": "Assessment solution for cashier and customer service roles."
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Technical assessment for .NET Framework 4.5 skills."
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for ASP.NET MVC development skills."
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for MVVM architecture and .NET application development."
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for ADO.NET database connectivity skills."
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for Adobe Experience Manager platform skills."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for Adobe Photoshop Creative Cloud skills."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Technical assessment for aeronautical engineering knowledge."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for aerospace engineering concepts and applications."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for agile software development methodologies."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for agile software testing practices."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "P",
+    "description": "Assessment for AI-related workplace competencies and technical understanding."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for AWS cloud development skills."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for Android mobile application development."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for Angular 6 frontend development skills."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for AngularJS framework development skills."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "K",
+    "description": "Assessment for Apache Hadoop big data ecosystem skills."
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/?action_doFilteringForm=Search&f=1&keyword=numerical",
+    "test_type": "A S",
+    "description": "Measures numerical reasoning and data interpretation skills."
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/c/global/ibm-kenexa-catalog/view/34469-shl-verify-interactive-g/",
+    "test_type": "A",
+    "description": "Measures general cognitive ability, deductive reasoning, inductive reasoning, and numerical reasoning."
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/shl-online/",
+    "test_type": "A",
+    "description": "Measures general mental ability, problem-solving, and reasoning capability."
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "A",
+    "description": "Measures quantitative reasoning and numerical analysis capability."
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": "A",
+    "description": "Measures vigilance, monitoring, and process control capability."
+  },
+  {
+    "name": "OPQ32",
+    "url": "https://www.shl.com/c/global/ibm-kenexa-catalog/view/34464-occupational-personality-questionnaire-%28opq%29",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire measuring workplace behavioural traits."
+  },
+  {
+    "name": "SHL Motivation Questionnaire (MQ M5)",
+    "url": "https://www.shl.com/shl-online/",
+    "test_type": "P",
+    "description": "Measures workplace motivation and employee engagement drivers."
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/",
+    "test_type": "A E B C D P",
+    "description": "Provides employee development insights and competency analysis."
+  }
+]
